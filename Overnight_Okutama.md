@@ -1,6 +1,11 @@
 # Guide on Spending a Night in Okutama area & hiking
 
 ## Outline<!-- omit in toc -->
+* [Logging](#logging)
+* [Hiking Courses](#hiking-courses)
+  * [Level 1](#level-1)
+  * [Level 2](#level-2)
+  * [Level 3](#level-3)
 
 ## Logging
 
