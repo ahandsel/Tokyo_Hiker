@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Intermediate Hikes"
-permalink: /guides/easy/
+permalink: /guides/medium/
 ---
 
 # Pending ✍️
