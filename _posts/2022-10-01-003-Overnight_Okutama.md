@@ -1,13 +1,18 @@
-# Guide on Spending a Night in Okutama area & hiking
+---
+layout: post
+title:  "Guide: Overnight Hiking in Okutama"
+date:   2022-10-01 00:00:00 +0000
+categories: guide
+---
 
 ## Outline<!-- omit in toc -->
-* [Logging](#logging)
+* [Accommodations](#accommodations)
 * [Hiking Courses](#hiking-courses)
   * [Level 1](#level-1)
   * [Level 2](#level-2)
   * [Level 3](#level-3)
 
-## Logging
+## Accommodations
 
 There are the main options for spending the night in the Okutama area
 
