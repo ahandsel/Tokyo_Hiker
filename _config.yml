@@ -22,8 +22,9 @@ title: Tokyo Hiker
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tokyo hiker's notes and plans.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ahandsel.github.io/Tokyo_Hiker/" # the base hostname & protocol for your site, e.g. http://example.com
+domain: ahandsel.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://ahandsel.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /Tokyo_Hiker/      # place folder name if the site is served in a subfolder
 # twitter_username: jekyllrb
 github_username:  ahandsel
 
