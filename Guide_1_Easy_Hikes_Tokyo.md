@@ -49,7 +49,8 @@ Cable Car station 🚠:
 Mitakesan Station / 御岳山駅 / <https://goo.gl/maps/fUiVTkKLTc9JgUx59>
 
 Travel from Shinjuku?  **2 hr**
-* 7:44 am -> 9:04 am {Mitake Station} + 9:12 am bus -> 9:30 am Cable Car -> 9:36 am | [Details](https://goo.gl/maps/d1DcUD19ftQLvQN5A)
+* 7:44 am -> 9:04 am {Mitake Station} + 9:12 am bus -> 9:30 am Cable Car -> 9:36 am
+* [Google Maps Route](https://goo.gl/maps/d1DcUD19ftQLvQN5A)
 
 **Overview**  
 Mitake Station -> Bus -> Rope way -> Hike 🥾 -> Rope way -> Bus -> Mitake Station
@@ -76,7 +77,8 @@ Train station 🚉:
 * Goal: Jinbakōgenshita Bus Stop / 陣馬高原下 （バス）/ <https://goo.gl/maps/UZQvkCwfrMrtgRzD9>
 
 Travel from Shinjuku?  **1 hr**
-* 8:50 am -> Takao Station -> 10:06 am via Keio Limited Express + Chuo Local | [Details](https://goo.gl/maps/wDYrWP4tJHd95dtU6)
+* 8:50 am -> Takao Station -> 10:06 am via Keio Limited Express + Chuo Local
+* [Google Maps Route](https://goo.gl/maps/wDYrWP4tJHd95dtU6)
 
 **Overview**  
 Sagamiko Station -> Hike 🥾 -> Jinbakōgenshita Bus Stop -> Sagamiko Station
