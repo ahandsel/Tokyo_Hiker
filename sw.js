@@ -8,7 +8,7 @@ const { CacheFirst, NetworkFirst, StaleWhileRevalidate } = workbox.strategies;
 const { CacheableResponse } = workbox.cacheableResponse;
 
 workbox.core.setCacheNameDetails({
-  prefix: 'Tokyo_Hiker',
+  prefix: 'ahandsel.github.io',
   suffix: '{{ site.time | date: "%Y-%m" }}'
 });
 
