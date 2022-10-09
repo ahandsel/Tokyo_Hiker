@@ -27,7 +27,7 @@ Able to read a little Japanese? → Use [YAMAP](https://yamap.com/)!
 Japanese native? → Still use [YAMAP](https://yamap.com/) 🤣
 
 Why use YAMAP?  
-[YAMAP / ヤマップ | 登山を安全に楽しむGPSアプリ - YouTube](https://www.youtube.com/watch?v=gypO_QTOXO8&t=1s)
+[YAMAP / ヤマップ - 登山を安全に楽しむGPSアプリ - YouTube](https://www.youtube.com/watch?v=gypO_QTOXO8&t=1s)
 
 TRUST ME! YOU NEED IT!  
 Or you will really wished you had when you are crawling back to the train station way past your schedule after hiking in the dark...
