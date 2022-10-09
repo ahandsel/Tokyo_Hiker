@@ -23,7 +23,7 @@ title: Tokyo Hiker
 description: Tokyo hiker's notes and plans.
 domain: ahandsel.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://ahandsel.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /Tokyo_Hiker/      # place folder name if the site is served in a subfolder
+baseurl: /Tokyo_Hiker      # place folder name if the site is served in a subfolder
 # twitter_username: jekyllrb
 github_username:  ahandsel
 
