@@ -22,7 +22,7 @@ Why use YAMAP?
 [YAMAP / ヤマップ - 登山を安全に楽しむGPSアプリ - YouTube](https://www.youtube.com/watch?v=gypO_QTOXO8&t=1s)
 
 TRUST ME! YOU NEED IT!  
-Or you will really wished you had when you are crawling back to the train station way past your schedule after hiking in the dark...
+Or you will really wish you had when you are crawling back to the train station way past your schedule after hiking in the dark...
 
 ## Repo Overview
 <!-- markdownlint-disable MD007 MD004 -->
