@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Intermediate Hikes"
-permalink: /guides/medium/
+# permalink: /guides/medium/
 ---
 
 # Intermediate Hiking in Tokyo
