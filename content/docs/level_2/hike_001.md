@@ -101,7 +101,8 @@ Google Maps List:
 ### ⚠️ The last cable car down from Mt. Mitake is 18:30! ⚠️
 DO NOT MISS THE LAST CABLE CAR DOWN FROM MT. MITAKE!
 
-![Timetable from 2023-05-01 from www.mitaketozan.co.jp](https://www.mitaketozan.co.jp/images/timetable__20230318.jpg)
+<!-- ![Mitakesan Cable Car Timetable](/img/Mitake_Cablecar_Timetable.jpg) -->
+![Mitakesan Cable Car Timetable](/img/Mitake_Cablecar_Timetable.png)
 
 ## Notes on the Hiking Trail Options
 Following YAMAP routes are set to 1.4x speed for a slow, relaxing hike.
