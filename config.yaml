@@ -38,9 +38,9 @@ menu:
     - name: "Github Repo"
       url: "https://github.com/ahandsel/Tokyo_Hiker"
       weight: 10
-    - name: "Theme"
-      url: "https://github.com/alex-shpak/hugo-book"
-      weight: 20
+    # - name: "Theme"
+    #   url: "https://github.com/alex-shpak/hugo-book"
+    #   weight: 20
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -105,7 +105,7 @@ params:
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
-  BookServiceWorker: true
+  # BookServiceWorker: true
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
