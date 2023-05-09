@@ -35,10 +35,10 @@ languages:
 menu:
   # before: []
   after:
-    - name: "Github"
+    - name: "Github Repo"
       url: "https://github.com/ahandsel/Tokyo_Hiker"
       weight: 10
-    - name: "Hugo Themes"
+    - name: "Theme"
       url: "https://github.com/alex-shpak/hugo-book"
       weight: 20
 
