@@ -1,9 +1,3 @@
----
-layout: page
-title: "Easy Hikes"
-permalink: /guides/easy/
----
-
 # Easy Hiking in Tokyo
 
 Here are some great options for beginners (in order of difficulty)
