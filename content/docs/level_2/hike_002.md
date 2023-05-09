@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Koburi Pass - Agano Station to Higashi-Agano Station Route"
+title:  "Koburi Pass - Agano Station to Higashi-Agano Station"
 ---
 
 # Koburi Pass - Agano Station to Higashi-Agano Station Route

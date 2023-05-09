@@ -1,11 +1,11 @@
 ---
 layout: page
-title:  "Mt. Mitake + Rock Garden Route"
+title:  "Mt. Mitake + Rock Garden"
 ---
 
 # Mt. Mitake + Rock Garden Route
 
-### Getting There <!-- omit in toc -->
+## Getting There
 Train station 🚉:  
 Mitake Station / 御嶽駅 / <https://goo.gl/maps/DMhiun282BQ1sZGS9>
 
@@ -16,15 +16,15 @@ Travel from Shinjuku?  **2 hr**
 * 7:44 am -> 9:04 am {Mitake Station} + 9:12 am bus -> 9:30 am Cable Car -> 9:36 am
 * [Google Maps Route](https://goo.gl/maps/d1DcUD19ftQLvQN5A)
 
-### Overview <!-- omit in toc -->
+## Overview
 Mitake Station -> Bus -> Rope way -> Hike 🥾 -> Rope way -> Bus -> Mitake Station
 
-### Food <!-- omit in toc -->
+## Food
 * Bring some snacks & water
 * Grab lunch at Mt. Mitake
 * [駒鳥売店](https://goo.gl/maps/wyx6o7ctAEpAtwbv8)
 
-### Summary <!-- omit in toc -->
+## Summary
 * Easy & Pretty 🌳
 * Hiking Poles 🔧 = 2 ~ 3 / 5 ; Nice to have for the Rock Garden trail
 * Trail Running 👟 = 2/5 ; pretty steep & rocky so not good for running

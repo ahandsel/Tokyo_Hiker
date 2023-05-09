@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Hinatawada Station to Mitakesan Cable Car via Mt. Hinode (日の出山) Route"
+title:  "Hinatawada Station to Mitakesan Cable Car via Mt. Hinode (日の出山)"
 ---
 
 # Hinatawada Station to Mitakesan Cable Car via Mt. Hinode (日の出山) Route
