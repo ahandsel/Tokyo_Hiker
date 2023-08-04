@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Hinatawada Station to Mitakesan Cable Car via Mt. Hinode (日の出山)"
+title:  "Hinatawada Station to Mitakesan Cable Car via Mt. Hinode"
 ---
 
-# Hinatawada Station to Mitakesan Cable Car via Mt. Hinode (日の出山) Route
+# Hinatawada Station to Mitakesan Cable Car via Mt. Hinode (`日の出山`) Route
 * Great trail for beginners who want something a little more challenging than Mt. Takao
 * Good for summer hikes as there are many shaded areas
 * If you are lucky, you may spot a [Japanese serow](https://en.wikipedia.org/wiki/Japanese_serow) 🦌
@@ -106,3 +106,5 @@ DO NOT MISS THE LAST CABLE CAR DOWN FROM MT. MITAKE!
 
 ## Notes on the Hiking Trail Options
 Following YAMAP routes are set to 1.4x speed for a slow, relaxing hike.
+
+{{% include "Panda.md" %}}

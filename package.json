@@ -1,0 +1,24 @@
+{
+  "name": "tokyo_hiker",
+  "version": "1.0.0",
+  "description": "Blog about hiking in Tokyo built with HUGO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahandsel/Tokyo_Hiker.git"
+  },
+  "keywords": [
+    "hugo",
+    "tokyo",
+    "hiking"
+  ],
+  "author": "ahandsel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahandsel/Tokyo_Hiker/issues"
+  },
+  "homepage": "https://ahandsel.github.io/Tokyo_Hiker/"
+}
