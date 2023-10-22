@@ -1,7 +1,6 @@
 ---
-menu:
-  after:
-    name: blog
-    weight: 5
-title: Blog
+weight: 5
+bookFlatSection: true
+title: "Blog Posts"
+permalink: /posts/
 ---
