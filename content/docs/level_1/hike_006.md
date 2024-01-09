@@ -5,6 +5,12 @@ title:  "Mt. Jinba + Strange Horse"
 
 # Mt. Jinba + Strange Horse Route
 
+## Summary
+* Up hill but simple; Soba at the top 💪
+* 3.5 km (42 min) of walking on road as you head to the bus stop 🥲
+* Hiking Poles 🔧 = 3.5/5 ; Good to have for the up hill section!
+* Trail Running 👟 = 2/5 ; pretty steep & lots of roots so not good for running
+
 ## Getting There
 Train station 🚉:  
 * Start: Sagamiko Station / 相模湖駅 / <https://goo.gl/maps/yrK7dZ4NSLHZZaKP7>
@@ -25,9 +31,3 @@ Specs:
 ## Food
 * Soba on the mountain: [信玄茶屋](https://goo.gl/maps/dTapUF7J6oNMd3198)
 * Cafe near the top: [Wadatoge](https://goo.gl/maps/JyZjdFXxfFcRX1Sv8)
-
-## Summary
-* Up hill but simple; Soba at the top 💪
-* 3.5 km (42 min) of walking on road as you head to the bus stop 🥲
-* Hiking Poles 🔧 = 3.5/5 ; Good to have for the up hill section!
-* Trail Running 👟 = 2/5 ; pretty steep & lots of roots so not good for running
