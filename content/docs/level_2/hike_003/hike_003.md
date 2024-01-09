@@ -40,5 +40,4 @@ title:  "OkuTama Station to Mitakesan Cable Car via Mt. Odake"
 
 ⚠️ **Note:** The last cable car down from Mt. Mitake is 18:30! ⚠️
 
-![Timetable from 2023-05-01 from www.mitaketozan.co.jp](https://www.mitaketozan.co.jp/images/timetable__20230318.jpg)
-
+![Timetable from 2023-05-01 from www.mitaketozan.co.jp](mitake-cable-car-timetable-20230318.png)
