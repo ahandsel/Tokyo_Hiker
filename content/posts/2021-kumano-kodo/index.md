@@ -1,4 +1,8 @@
-# Kumano Kodou 2021 Trip Outline
+---
+title:  "Kumano Kodou 2021 Trip Outline"
+date:   2021-05-01
+categories: hiking plans
+---
 
 ## Table of Content <!-- omit in toc -->
 * [Overview](#overview)
