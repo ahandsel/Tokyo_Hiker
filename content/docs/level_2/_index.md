@@ -1,6 +1,6 @@
 ---
 weight: 2
 bookFlatSection: true
-title: "Intermediate Hikes"
+title: "Moderate Hikes"
 permalink: /level2/
 ---
